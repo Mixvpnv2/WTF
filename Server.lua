@@ -1,4 +1,4 @@
-local you_furry = true
+local you_furry = false
 local furry_players = true
 
 local function Decode(str)
